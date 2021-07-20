@@ -6,6 +6,7 @@
 <p align="center"> App that finds song lyrics</p>
 
 <p align="center">
+ <a href="https://primelyrics.netlify.app/"><img src="https://img.shields.io/badge/web%20app-Prime%20Lyrics-indigo.svg?style=flat-square.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-green.svg?style=flat-square.svg"></a>
  <a href="https://mobile.twitter.com/SumitChandra225">
     <img src="https://img.shields.io/badge/twitter-Sumit%20Poddar-blue.svg?style=flat-square.svg"/>
