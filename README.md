@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.pexels.com/photos/8831956/pexels-photo-8831956.png?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="prime lyrics cover image" style="border-rdius:10px">
+<a href="https://primelyrics.netlify.app/"><img src="https://images.pexels.com/photos/8831956/pexels-photo-8831956.png?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="prime lyrics cover image" style="border-rdius:10px"></a>
 </p>
 <br />
 <br />
